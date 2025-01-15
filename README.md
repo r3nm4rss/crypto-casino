@@ -1,2 +1,3 @@
-# crypto-casino
+### Crypto Casino
+
 Discord casino bot with Crypto deposit
